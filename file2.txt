@@ -1,0 +1,8 @@
+api version: 1
+kind: deployment
+label : staging
+   env : {}
+
+service : clusterIP
+   port : 8080
+
